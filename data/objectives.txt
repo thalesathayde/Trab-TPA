@@ -1,0 +1,14 @@
+0:4:3:Conquistar na totalidade a ASIA e a ÁFRICA.
+0:4:1:Conquistar na totalidade a ASIA e a AMÉRICA DO SUL.
+0:0:3:Conquistar na totalidade a AMÉRICA DO NORTE e a ÁFRICA.
+0:0:5:Conquistar na totalidade a AMÉRICA DO NORTE e a AUSTRÁLIA.
+1:2:1:Conquistar na totalidade a EUROPA, a AMÉRICA DO SUL e mais um terceiro.
+1:2:5:Conquistar na totalidade a EUROPA, a AUSTRÁLIA e mais um terceiro.
+2:18:Conquistar 18 TERRITÓRIOS e ocupar cada um deles com pelo menos dois exércitos.
+2:24:Conquistar 24 TERRITÓRIOS à sua escolha.
+3:AZUL:Destruir totalmente OS EXÉRCITOS AZUIS ou conquistar 18 territórios caso ele não esteja em jogo.
+3:AMARELO:Destruir totalmente OS EXÉRCITOS AMARELOS ou conquistar 18 territórios caso ele não esteja em jogo.
+3:VERMELHO:Destruir totalmente OS EXÉRCITOS VERMELHOS ou conquistar 18 territórios caso ele não esteja em jogo.
+3:PRETO:Destruir totalmente OS EXÉRCITOS PRETOS ou conquistar 18 territórios caso ele não esteja em jogo.
+3:ROXO:Destruir totalmente OS EXÉRCITOS ROXOS ou conquistar 18 territórios caso ele não esteja em jogo.
+3:VERDE:Destruir totalmente OS EXÉRCITOS VERDES ou conquistar 18 territórios caso ele não esteja em jogo.

@@ -19,7 +19,7 @@ public abstract class AutorDAOImpl
 	{	
 		List<Autor> autores = em
 			.createQuery("select a from Autor a "
-					   + "where a.nome like :nome order by a.nome asc")
+					   + "where a.nome like :UPPER(nome) order by a.nome asc")
 			.setParameter("nome", nome.toUpperCase())
 			.setFirstResult(deslocamento)
 			.setMaxResults(linhasPorPagina)

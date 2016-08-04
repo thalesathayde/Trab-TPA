@@ -19,7 +19,7 @@ public abstract class LivroDAOImpl
 	{	
 		List<Livro> livros = em
 			.createQuery("select l from Livro l "
-					   + "where l.titulo like :titulo order by l.titulo asc")
+					   + "where l.titulo like :UPPER(titulo) order by l.titulo asc")
 			.setParameter("titulo", nome.toUpperCase())
 			.setFirstResult(deslocamento)
 			.setMaxResults(linhasPorPagina)
